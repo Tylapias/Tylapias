@@ -1,8 +1,8 @@
-#### Seja bem vindo (a) ao meu portfólio!👋
+![image](https://github.com/Tylapias/Tylapias/assets/164562915/34e7fb31-76ea-4270-baa4-31e94378d5a7)#### Seja bem vindo (a) ao meu portfólio!👋
 
 ### Meu nome é Rodrigo, tenho 16 anos e estou estudando character design.
 
-![exemplo1](https://static.wikia.nocookie.net/liberproeliis/images/8/8e/Sukuna2.png/revision/latest?cb=20230703134400&path-prefix=pt-br)
+![exemplo1](blob:https://web.whatsapp.com/49cf676c-7f13-427b-9beb-18802df1ae75)
 
 
 <!--
