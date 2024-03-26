@@ -2,7 +2,7 @@
 
 ### Meu nome é Rodrigo, tenho 16 anos e estou estudando character design.
 
-![exemplo1](blob:https://web.whatsapp.com/49cf676c-7f13-427b-9beb-18802df1ae750)
+![exemplo1](https://static.wikia.nocookie.net/liberproeliis/images/8/8e/Sukuna2.png/revision/latest?cb=20230703134400&path-prefix=pt-br)
 
 
 <!--
