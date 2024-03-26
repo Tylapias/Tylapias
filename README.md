@@ -1,4 +1,9 @@
-### Seja bem vindo (a) ao meu portfólio!👋
+#### Seja bem vindo (a) ao meu portfólio!👋
+
+### Meu nome é Rodrigo, tenho 16 anos e estou estudando character design.
+
+![exemplo1](blob:https://web.whatsapp.com/49cf676c-7f13-427b-9beb-18802df1ae750)
+
 
 <!--
 **Tylapias/Tylapias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
