@@ -1,6 +1,6 @@
-#### Seja bem vindo (a) ao meu portfólio!👋
+### Seja bem vindo (a) ao meu portfólio!👋
 
-### Meu nome é Rodrigo, tenho 16 anos e estou estudando character design.
+#### Meu nome é Rodrigo, tenho 16 anos e estou estudando character design.
 
 ![image](https://github.com/Tylapias/Tylapias/assets/164562915/34e7fb31-76ea-4270-baa4-31e94378d5a7)
 
