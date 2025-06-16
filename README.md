@@ -1,4 +1,4 @@
-<img src="https://rodrigofonseca.carrd.co/assets/images/gallery01/fd0fd43c.jpg?v=bd763730" />
+<img src="https://rodrigofonseca.carrd.co/assets/images/gallery01/fd0fd43c.jpg?v=bd763730" width="70%"/>
 
 ### Seja bem vindo (a) ao meu portfólio!👋
 
