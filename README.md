@@ -1,4 +1,4 @@
-<img src="https://lens.usercontent.google.com/image?vsrid=CNaFocq5mpKDdxACGAEiJDg5YWUzNWQ1LTZkY2MtNDg2Yy1hNDk4LWM5ZjkyZDc1OGM2NzIGIgJjZygH&gsessionid=maJIu6Joy5b8mRhKfmqCFsgXCDxrFND3U7BXC6WV22doA6IA9MBd4w" />
+<img src="https://rodrigofonseca.carrd.co/assets/images/gallery01/fd0fd43c.jpg?v=bd763730" />
 
 ### Seja bem vindo (a) ao meu portfólio!👋
 
