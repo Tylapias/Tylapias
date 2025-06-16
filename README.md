@@ -1,8 +1,11 @@
 ### Seja bem vindo (a) ao meu portfólio!👋
 
-#### Meu nome é Rodrigo, tenho 16 anos e estou estudando character design.
+#### Meu nome é Rodrigo, tenho 17 anos, estudo linguagem C e atuo como ilustrador digital.
 
-### ![image](https://github.com/Tylapias/Tylapias/assets/164562915/34e7fb31-76ea-4270-baa4-31e94378d5a7)
+### Meu site:
+#### http://rodrigofonseca.carrd.co/
+
+<img src="blob:chrome-untrusted://media-app/c7cbc54a-391b-4396-8f81-9de17c3cd375>
 
 
 <!--
