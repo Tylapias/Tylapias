@@ -1,3 +1,5 @@
+<img src="blob:chrome-untrusted://media-app/c7cbc54a-391b-4396-8f81-9de17c3cd375" />
+
 ### Seja bem vindo (a) ao meu portfólio!👋
 
 #### Meu nome é Rodrigo, tenho 17 anos, estudo linguagem C e atuo como ilustrador digital.
@@ -5,7 +7,7 @@
 ### Meu site:
 #### http://rodrigofonseca.carrd.co/
 
-<img src="blob:chrome-untrusted://media-app/c7cbc54a-391b-4396-8f81-9de17c3cd375" />
+
 
 
 <!--
